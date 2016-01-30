@@ -5,6 +5,8 @@
 " http://blog.eddie.com.tw
 " eddie@digik.com.tw
 
+set shell=/bin/bash
+
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 filetype off
 "call pathogen#incubate()
